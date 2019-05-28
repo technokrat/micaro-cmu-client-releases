@@ -1,5 +1,5 @@
-<img align="right" src="./distributable_icon.png" width="200" />
 # micaro-cmu-client-releases
+<img align="right" src="./distributable_icon.png" width="200" />
 This repository hosts distributable and minified releases of the `MICARO CMU Client`.
 
 The `MICARO CMU Client` is an Electron application assisting you in configuring `MICARO CMUs`, keeping track of users, wallboxes and tariffs, and letting you interactively evaluate the charging logs, including summing up the balances, and generation of a report.

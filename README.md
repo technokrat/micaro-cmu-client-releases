@@ -1,3 +1,5 @@
+<img src="./distributable_icon.png" data-canonical-src="./distributable_icon.png" width="200" />
+
 # micaro-cmu-client-releases
 
 This repository hosts distributable and minified releases of the `MICARO CMU Client`.

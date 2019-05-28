@@ -1,4 +1,4 @@
-<img src="./distributable_icon.png" width="200" />
+<img align="right" src="./distributable_icon.png" width="200" />
 
 # micaro-cmu-client-releases
 
